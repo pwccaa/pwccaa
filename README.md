@@ -7,8 +7,9 @@
 <br>
 <div>
 <h2 align="center"> About me. </h2>
-<img src="assets/side.gif" align="right">
-<br><br><br><br><br>
+ <br><br><br>
+<img src="assets/side2.gif" align="right">
+<br><br><br>
 <li>
 <b>Name:</b> Leonardo</li>
  <li>
@@ -17,7 +18,8 @@
 <li>
 <b>Loves:</b> undefined
 </li>
-<br><br><br><br><br><br><br>
+<br><br><br>
+<br><br><br>
  <h1></h1>
 <br><br><br>
 <div align="center">
