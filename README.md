@@ -15,8 +15,15 @@
 <b>Learning:</b> JavaScript, HTML, CSS
 </li>
 <li>
-<b>Loves:</b> //
+<b>Loves:</b> undefined
 </li>
+<br><br><br><br><br><br><br>
+ <h1></h1>
 <br><br><br>
+<div align="center">
+ <img align="right" src="assets/LainDressSlow.gif"><br><br><br><br><br><br>
+<p><strong>"Some things just never change..."<strong><p>
+ <small>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀- ?<small>
+ </div>
 </div>
 <div>
