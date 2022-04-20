@@ -15,6 +15,9 @@
  <li>
 <b>Learning:</b> JavaScript, HTML, CSS
 </li>
+ <li>
+<b>Senpai:</b> <a href="https://github.com/Losty17"> Vini <3 </a>
+</li>
 <li>
 <b>Loves:</b> undefined
 </li>
