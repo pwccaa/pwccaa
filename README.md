@@ -13,7 +13,7 @@
 <li>
 <b>Name:</b> Leonardo</li>
  <li>
-<b>Learning:</b> JavaScript, HTML, CSS
+<b>Learning:</b> Java, JavaScript, HTML, CSS
 </li>
  <li>
 <b>Senpai:</b> <a href="https://github.com/Losty17"> Vini <3 </a>
