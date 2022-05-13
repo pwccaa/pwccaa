@@ -13,7 +13,7 @@
 <li>
 <b>Name:</b> Leonardo</li>
  <li>
-<b>Learning:</b> Java, JavaScript, HTML, CSS
+<b>Learning:</b> Java, GIT, SQL, JavaScript, HTML, CSS
 </li>
 <li>
 <b>Loves:</b> undefined
